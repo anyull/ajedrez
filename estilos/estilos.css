@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(197, 171, 153);
+}
+
+.beige {
+    background-color: beige;
+    height: 10vh;
+}
+
+.negro {
+    background-color: black;
+    height: 10vh;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    background-color: wheat;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
